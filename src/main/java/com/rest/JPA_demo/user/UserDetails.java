@@ -12,8 +12,7 @@ public class UserDetails {
 	private Long id;
 	private String name;
 	private String role;
-	private String opkd;
-	
+
 	public UserDetails() {
 
 	}
