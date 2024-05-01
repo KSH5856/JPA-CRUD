@@ -27,7 +27,7 @@
  - Clone the repository to your local machine:
 
 ```bash
-  git clone https://github.com/your-username/your-repository.git
+  git clone https://github.com/KSH5856/JPA-CRUD.git
 ```
 
 **Running the Application**
